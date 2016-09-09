@@ -1,7 +1,5 @@
 # README #
 
-This project is developed by me(Swapnil Saxena) and my team-mates Ashish Chauhan, Pratham Pandey and Dikshant Gupta as a part of our 5th semester mini-project and is intended purely for educational purposes. Everyone is welcome to introduce changes, add features, fix bugs and distribute it without any consent.
-
 ### What is this repository for? ###
 
 ** Summary:** While working on large development projects, all software developers eventually find themselves in a position where working in groups appears to be more productive. With software projects involving a multitude of developers this almost becomes a crucial part of project development. A real time collaborative integrated development environment can provide developers with the facility to collaborate over software projects over a network even when developers are thousand of miles away. Real-time Collaborative IDE provide developers with the ability to collaboratively write code, build and test it as well as share their projects with other developers. Chatting with other fellow developers over a project is also possible. Besides several other useful features of a complete IDE including saving snapshots, project management are also provided to ease the entire project development process.
@@ -23,4 +21,4 @@ This project is developed by me(Swapnil Saxena) and my team-mates Ashish Chauhan
 * Once done, execute mongod.exe present in INSTALL_LOC\MongoDB\Server\3.0\bin\
 * Once the cloning is complete, use node.js terminal to execute /bin/www. The server is now up listening at port 3000 for http requests.
 
-* Yipee... Done!!!. Introduce changes, add features, fix bugs and send a pull request to contribute. 
+Introduce changes, add features, fix bugs and send a pull request to contribute. 
